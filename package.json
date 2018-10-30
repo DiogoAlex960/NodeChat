@@ -1,0 +1,27 @@
+{
+  "name": "ChatNode",
+  "version": "1.0.0",
+  "description": "A chat app usando Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test especificado\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+"
+  },
+  "author": "DiogoSimões",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^1.7.4"
+  },
+  "devDependencies": {
+    "node": "^11.0.0",
+    "nodemon": "^1.18.4"
+  }
+}
